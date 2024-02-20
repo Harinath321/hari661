@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hari661.git/static/css/main.b1d7ec7b.css",
+    "main.js": "/hari661.git/static/js/main.744da119.js",
+    "static/js/453.daecb6e1.chunk.js": "/hari661.git/static/js/453.daecb6e1.chunk.js",
+    "static/media/logo.svg": "/hari661.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hari661.git/index.html",
+    "main.b1d7ec7b.css.map": "/hari661.git/static/css/main.b1d7ec7b.css.map",
+    "main.744da119.js.map": "/hari661.git/static/js/main.744da119.js.map",
+    "453.daecb6e1.chunk.js.map": "/hari661.git/static/js/453.daecb6e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.744da119.js"
+  ]
+}
